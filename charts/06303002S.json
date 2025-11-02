@@ -1,0 +1,15 @@
+{
+  "unit": "cm",
+  "metric": "waist_width_flat",
+  "name": "Guía de tallas - Pantalón Stretch Bicolor Velilla 303002S",
+  "ranges": [
+    {"size": "S", "min": 41.0, "max": 44.1},
+    {"size": "M", "min": 44.2, "max": 48.1},
+    {"size": "L", "min": 48.2, "max": 52.1},
+    {"size": "XL", "min": 52.2, "max": 56.1},
+    {"size": "2XL", "min": 56.2, "max": 60.1},
+    {"size": "3XL", "min": 60.2, "max": 64.1},
+    {"size": "4XL", "min": 64.2, "max": 68.1},
+    {"size": "5XL", "min": 68.2, "max": 72.2}
+  ]
+}

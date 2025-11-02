@@ -1,0 +1,13 @@
+{
+  "unit": "cm",
+  "metric": "waist_width_flat",
+  "name": "Guía de tallas - Pantalón Denim Stretch Velilla 103028S",
+  "ranges": [
+    {"size": "S", "min": 36.0, "max": 38.9},
+    {"size": "M", "min": 39.0, "max": 42.9},
+    {"size": "L", "min": 43.0, "max": 46.9},
+    {"size": "XL", "min": 47.0, "max": 50.9},
+    {"size": "2XL", "min": 51.0, "max": 54.9},
+    {"size": "3XL", "min": 55.0, "max": 58.9}
+  ]
+}
