@@ -3,14 +3,14 @@
   "metric": "waist_width_flat",
   "name": "PANTALÓN PARA LLUVIA ALTA VISIBILIDAD COUNTRY HV BEE WORk",
   "ranges": [
-    { "size": "XS", "min": 36.5, "max": 40.5 },
-    { "size": "S",  "min": 38.5, "max": 42.5 },
-    { "size": "M",  "min": 40.5, "max": 44.5 },
-    { "size": "L",  "min": 42.5, "max": 46.5 },
-    { "size": "XL", "min": 46.5, "max": 50.5 },
-    { "size": "2XL","min": 50.5, "max": 54.5 },
-    { "size": "3XL","min": 53.5, "max": 57.5 },
-    { "size": "4XL","min": 56.5, "max": 60.5 },
-    { "size": "5XL","min": 59.5, "max": 63.5 }
+    { "size": "5XL", "min": 59.5, "max": 63.5 },
+    { "size": "4XL", "min": 56.5, "max": 60.5 },
+    { "size": "3XL", "min": 53.5, "max": 57.5 },
+    { "size": "2XL", "min": 50.5, "max": 54.5 },
+    { "size": "XL",  "min": 46.5, "max": 50.5 },
+    { "size": "L",   "min": 42.5, "max": 46.5 },
+    { "size": "M",   "min": 40.5, "max": 44.5 },
+    { "size": "S",   "min": 38.5, "max": 42.5 },
+    { "size": "XS",  "min": 36.5, "max": 40.5 }
   ]
 }
