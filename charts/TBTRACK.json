@@ -1,0 +1,16 @@
+{
+  "unit": "cm",
+  "metric": "waist_width_flat",
+  "name": "Guía de tallas - Pantalón Multibolsillos Beeworkwear Track Slim",
+  "ranges": [
+    { "size": "XS", "min": 36.0, "max": 43.0 },
+    { "size": "S",  "min": 38.0, "max": 45.0 },
+    { "size": "M",  "min": 40.0, "max": 47.0 },
+    { "size": "L",  "min": 42.0, "max": 49.0 },
+    { "size": "XL", "min": 44.0, "max": 51.0 },
+    { "size": "2XL","min": 46.0, "max": 53.0 },
+    { "size": "3XL","min": 48.0, "max": 55.0 },
+    { "size": "4XL","min": 50.0, "max": 57.0 },
+    { "size": "5XL","min": 52.0, "max": 59.0 }
+  ]
+}

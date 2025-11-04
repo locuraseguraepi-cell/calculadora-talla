@@ -1,0 +1,16 @@
+{
+  "unit": "cm",
+  "metric": "chest_width_flat",
+  "name": "POLO ALTA VISIBILIDAD ROCK TOMAS BODERO",
+  "ranges": [
+    { "size": "XS", "min": 44.0, "max": 46.0 },
+    { "size": "S",  "min": 46.0, "max": 48.0 },
+    { "size": "M",  "min": 48.0, "max": 50.0 },
+    { "size": "L",  "min": 50.0, "max": 54.0 },
+    { "size": "XL", "min": 54.0, "max": 58.0 },
+    { "size": "2XL","min": 58.0, "max": 62.0 },
+    { "size": "3XL","min": 62.0, "max": 66.0 },
+    { "size": "4XL","min": 66.0, "max": 70.0 },
+    { "size": "5XL","min": 70.0, "max": 72.0 }
+  ]
+}
